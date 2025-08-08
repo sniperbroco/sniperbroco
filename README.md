@@ -160,6 +160,27 @@ Welcome to my GitHub profile! I’m a passionate Software Developer specializing
   </a>
 </p>
 
+### Design and Media
+  <p>
+  <!-- Design & Prototyping -->
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://icon.icepanel.io/Technology/svg/Figma.svg" alt="Figma" width="50"/>
+  </a>
+  <!-- Adobe Creative Suite -->
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="Adobe Photoshop" width="50"/>
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/illustrator.svg" alt="Adobe Illustrator" width="50"/>
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/premiere-pro-40.svg" alt="Adobe Premiere Pro" width="50"/>
+  </a>
+  <a href="https://www.adobe.com/products/indesign.html" target="_blank">
+    <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/indesign-40.svg" alt="Adobe InDesign" width="50"/>
+  </a>
+</p>
+
 ---
 
 ## 📫 How to Reach Me
